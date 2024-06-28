@@ -1,0 +1,62 @@
+body {
+  justify-content: center;
+  background-image: url('image.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+h1 {
+  justify-content: center;
+  font-size: 3rem;
+  margin: 40px;
+}
+h2 {
+  font-size: 2.4rem;
+  margin: 40px;
+}
+#increment-btn {
+  padding: 10px;
+  border: none;
+  background-color: darkred;
+  height: 50px;
+  width: 190px;
+  font-size: 2rem;
+  color: white;
+}
+#decreamnet-btn {
+  padding: 10px;
+  border: none;
+  background-color: darkred;
+  height: 50px;
+  width: 190px;
+  font-size: 2rem;
+  color: white;
+  margin-left: 20px;
+}
+#zero-btn {
+  padding: 10px;
+  border: none;
+  background-color: darkred;
+  height: 50px;
+  width: 190px;
+  font-size: 2rem;
+  color: white;
+  margin-top: 20px;
+}
+#save-btn {
+  padding: 10px;
+  border: none;
+  background-color: green;
+  height: 50px;
+  width: 190px;
+  font-size: 2rem;
+  color: white;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+#save-p {
+  color: aqua;
+  background-color: black;
+  padding: 10px;
+  font-size: 1.4rem;
+}
